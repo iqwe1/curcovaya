@@ -1,0 +1,15 @@
+D:\acronoiddd\ACRONOID\ACRONOID\bin\Debug\netcoreapp3.1\ACRONOID.exe
+D:\acronoiddd\ACRONOID\ACRONOID\bin\Debug\netcoreapp3.1\ACRONOID.deps.json
+D:\acronoiddd\ACRONOID\ACRONOID\bin\Debug\netcoreapp3.1\ACRONOID.runtimeconfig.json
+D:\acronoiddd\ACRONOID\ACRONOID\bin\Debug\netcoreapp3.1\ACRONOID.runtimeconfig.dev.json
+D:\acronoiddd\ACRONOID\ACRONOID\bin\Debug\netcoreapp3.1\ACRONOID.dll
+D:\acronoiddd\ACRONOID\ACRONOID\bin\Debug\netcoreapp3.1\ACRONOID.pdb
+D:\acronoiddd\ACRONOID\ACRONOID\obj\Debug\netcoreapp3.1\ACRONOID.csprojAssemblyReference.cache
+D:\acronoiddd\ACRONOID\ACRONOID\obj\Debug\netcoreapp3.1\ACRONOID.Form1.resources
+D:\acronoiddd\ACRONOID\ACRONOID\obj\Debug\netcoreapp3.1\ACRONOID.csproj.GenerateResource.cache
+D:\acronoiddd\ACRONOID\ACRONOID\obj\Debug\netcoreapp3.1\ACRONOID.AssemblyInfoInputs.cache
+D:\acronoiddd\ACRONOID\ACRONOID\obj\Debug\netcoreapp3.1\ACRONOID.AssemblyInfo.cs
+D:\acronoiddd\ACRONOID\ACRONOID\obj\Debug\netcoreapp3.1\ACRONOID.csproj.CoreCompileInputs.cache
+D:\acronoiddd\ACRONOID\ACRONOID\obj\Debug\netcoreapp3.1\ACRONOID.dll
+D:\acronoiddd\ACRONOID\ACRONOID\obj\Debug\netcoreapp3.1\ACRONOID.pdb
+D:\acronoiddd\ACRONOID\ACRONOID\obj\Debug\netcoreapp3.1\ACRONOID.genruntimeconfig.cache
